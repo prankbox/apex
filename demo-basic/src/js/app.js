@@ -1,3 +1,3 @@
 (function(){
-  console.log("Watch me and my demo-basic now");
+  console.log("Watch demo-basic now");
 })();
