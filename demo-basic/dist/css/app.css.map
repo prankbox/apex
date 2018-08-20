@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA;EACE,qCAAqC;CACtC;;AAED;EACE,uBAAuB;CACxB","file":"app.css","sourcesContent":[".t-Login-region {\n  background-color: rgb(140, 190, 165);\n}\n\n.t-Report-colHead {\n  background-color: azure\n}\n"]}

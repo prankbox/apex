@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["app.js"],"sourcesContent":["(function(){\n  console.log(\"Watch my demo-basic\");\n})();\n"],"file":"app.js"}
